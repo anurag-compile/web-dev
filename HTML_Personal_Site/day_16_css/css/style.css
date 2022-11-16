@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family:monospace;
+    background-color: black;
+    color: white;
+
+}
+.myskills {
+    text-align: left;
+}
+
+h1 {
+    font-size: 400%;
+    margin-top: 0;
+    font-family:monospace;
+    font-weight: normal;
+    line-height: 2;
+}
+
+h2 {
+    color: white;
+    margin-top: 0;
+    font-family:monospace;
+    font-weight: normal;
+    line-height: 2;
+
+}
+
+h3 {
+    color: white;
+    margin-top: 0;
+    font-family:monospace;
+    font-weight: normal;
+    line-height: 2;
+}
+
+img {
+    border-radius: 50%;
+  }
+
+.top-container {
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    padding-top: 100px;
+}
+
+.profile-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.middle-container {
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    padding-top: 100px;
+
+
+}
+
+.bottom-container {
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    padding-top: 100px;
+
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.pro{
+    text-decoration: underline; 
+
+}
+
